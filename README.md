@@ -28,7 +28,7 @@ Welcome to the **Java Full Stack Repository**! This repository contains a collec
 ## 🔧 Languages and Tools
 
 <p align="left">
-<a href="https://github.com/DevDivyanshJindal">
+<a href="https://github.com/Omvats0">
 <img src="https://skillicons.dev/icons?i=java,vscode,replit,github" alt="Languages and Tools" width="250" height="100">
 </a>
 </p>
