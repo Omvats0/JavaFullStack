@@ -1,4 +1,4 @@
-# 🌟 Codes by Divyansh Jindal
+# 🌟 Codes by Om sharma
 
 ## Java Full Stack Repository
 
